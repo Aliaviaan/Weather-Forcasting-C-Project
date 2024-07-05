@@ -1,0 +1,26 @@
+below.
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('UK', '2023-01-01', '14', '53', '13', '21');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('UK', '2023-01-02', '12', '46', '5', '8');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('UK', '2023-01-03', '8', '52', '16', '26');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('UK', '2023-01-04', '11', '56', '16', '26');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('UK', '2023-01-05', '13', '54', '12', '19');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('china', '2023-01-01', '4', '39', '7', '11');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('china', '2023-01-02', '3', '37', '6', '10');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('china', '2023-01-03', '3', '38', '5', '8');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('china', '2023-01-04', '5', '41', '7', '11');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('china', '2023-01-05', '4', '40', '6', '10');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('france', '2023-01-01', '13', '56', '10', '16');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('france', '2023-01-02', '12', '54', '7', '11');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('france', '2023-01-03', '10', '50', '9', '14');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('france', '2023-01-04', '12', '54', '14', '23');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('france', '2023-01-05', '13', '55', '10', '16');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('russia', '2023-01-01', '6', '42', '15', '24');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('russia', '2023-01-02', '1', '34', '14', '23');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('russia', '2023-01-03', '0', '32', '12', '19');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('russia', '2023-01-04', '-4', '24', '10', '16');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('russia', '2023-01-05', '-11', '12', '9', '14');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('germany', '2023-01-01', '14', '58', '14', '23');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('germany', '2023-01-02', '14', '57', '12', '19');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('germany', '2023-01-03', '7', '45', '10', '16');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('geramny', '2023-01-04', '8', '46', '14', '23');
+INSERT INTO `weather_forcasting`.`weather` (`region`, `date`, `temperature_cel`, `temerature_farenhite`, `wind-speed_mph`, `wind-speed_kmph`) VALUES ('germany', '2023-01-05', '9', '48', '13', '21');
